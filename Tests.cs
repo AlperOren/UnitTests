@@ -2,7 +2,7 @@
 
 namespace UnitTests
 {
-    public class Class1
+    public class Tests1
     {
         [Fact]
         public void Hello()
