@@ -1,4 +1,5 @@
-﻿using Xunit;
+﻿using System.Threading;
+using Xunit;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
@@ -14,6 +15,8 @@ namespace ContentOne.UI.Tests
             using (IWebDriver driver = new ChromeDriver())
             {
                 driver.Navigate().GoToUrl("https://content1.qa.travcorpservices.com/");
+
+                Thread.Sleep(900);
             }
         }
 
