@@ -9,11 +9,25 @@ namespace ContentOne.UI.Tests
     {
         [Trait("Category", "Smoke")]
         [Fact]
-        public void LoadUmbraco()
+        public void LoadContentOneQA()
         {
             using (IWebDriver driver = new ChromeDriver())
             {
-                driver.Navigate().GoToUrl("http://localhost:2728/umbraco");
+                driver.Navigate().GoToUrl("https://content1.qa.travcorpservices.com/");
+            }
+        }
+
+        [Trait("Category", "Smoke")]
+        [Fact]
+        public void IsPageTitlePdms()
+        {
+            using (IWebDriver driver = new ChromeDriver())
+            {
+                driver.Navigate().GoToUrl("https://content1.qa.travcorpservices.com/");
+
+                string pageTitle = driver.Title;
+
+                Assert.Equal("Pdms", pageTitle);
             }
         }
     }

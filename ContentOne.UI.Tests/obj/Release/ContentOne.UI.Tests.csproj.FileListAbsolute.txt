@@ -16,3 +16,4 @@ C:\inetpub\wwwroot\SeleniumTest\ContentOne.UI.Tests\obj\Release\ContentOne.UI.Te
 C:\inetpub\wwwroot\SeleniumTest\ContentOne.UI.Tests\obj\Release\ContentOne.UI.Tests.csproj.CopyComplete
 C:\inetpub\wwwroot\SeleniumTest\ContentOne.UI.Tests\obj\Release\ContentOne.UI.Tests.dll
 C:\inetpub\wwwroot\SeleniumTest\ContentOne.UI.Tests\obj\Release\ContentOne.UI.Tests.pdb
+C:\inetpub\wwwroot\SeleniumTest\ContentOne.UI.Tests\obj\Release\ContentOne.UI.Tests.csprojAssemblyReference.cache
