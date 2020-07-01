@@ -30,7 +30,7 @@ namespace ContentOne.UI.Tests
 
                 string pageTitle = driver.Title;
 
-                Assert.Equal("Pdms11", pageTitle);
+                Assert.Equal("Pdms", pageTitle);
             }
         }
     }
