@@ -1,8 +1,0 @@
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\bin\Debug\netstandard2.0\XUnitTestsStandard.deps.json
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\bin\Debug\netstandard2.0\XUnitTestsStandard.dll
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\bin\Debug\netstandard2.0\XUnitTestsStandard.pdb
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\obj\Debug\netstandard2.0\XUnitTestsStandard.AssemblyInfoInputs.cache
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\obj\Debug\netstandard2.0\XUnitTestsStandard.AssemblyInfo.cs
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\obj\Debug\netstandard2.0\XUnitTestsStandard.dll
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\obj\Debug\netstandard2.0\XUnitTestsStandard.pdb
-C:\inetpub\wwwroot\UnitTests\XUnitTestsStandard\obj\Debug\netstandard2.0\XUnitTestsStandard.csprojAssemblyReference.cache
